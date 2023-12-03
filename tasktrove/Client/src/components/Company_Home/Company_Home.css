@@ -1,0 +1,101 @@
+/* CSS for profile builder form */
+.profile-builder {
+    width: 800px;
+    margin: 0 auto;
+    padding: 30px 10px 20px 10px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #27ae60;
+    margin-top: 10px;
+    margin-bottom: 20px;
+  }
+  /* .profile-builder h3{
+    margin-top: 20px;
+
+  } */
+
+  form {
+    background-color: #fff;
+    border-radius: 10px;
+    margin: auto;
+    padding: 0 20px;
+    width: 100%;
+    opacity: 0.955;
+}
+form h3{
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+  /* CSS for input fields */
+  .input-field {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    background-color: #fff2cd;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  /* CSS for dropdown */
+  .dropdown-container {
+    margin-bottom: 10px;
+    
+  }
+  
+  .dropdown {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #fff2cd;
+
+  }
+  
+  /* CSS for address fields */
+  .address-container {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+  }
+  
+  /* CSS for time fields */
+  .time-container {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+  }
+  
+  /* CSS for established year field */
+  .established-year-container {
+    margin-bottom: 10px;
+  }
+  
+  /* CSS for profile picture field */
+  .profile-pic-container {
+    margin-bottom: 10px;
+  }
+  
+  /* CSS for labels */
+  .label {
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  /* CSS for submit button */
+  .submit-button {
+    padding: 10px;
+    margin: 10px;
+    width: 100%;
+    background-color: #27ae60;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .submit-button:hover {
+    background-color: #27ae60;
+  }
+  

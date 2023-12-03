@@ -1,0 +1,53 @@
+/* .business_grow_main {
+    background-color: #f7f9fc;
+    padding-bottom: 3rem;
+  }
+  .bg_tag_line{
+      font-size: 2rem;
+      padding-left: 5rem;
+      padding-bottom: 2rem;
+      font-weight: 600;
+  }
+  
+  
+  .bg_list_item span{
+      color: grey;
+  }
+  
+  .step_title{
+      font-weight: 600;
+      font-size: 1.2rem;
+      padding-bottom: .4rem;
+      
+  }
+  
+  .step_detail{
+      font-size: 1.2rem;
+      width:50%;
+  
+  }
+  
+  
+  .bg_list_section {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+   */
+   .bg_list_item1 {
+    background-color: #f7f9fc;
+    width: 40rem;
+   }
+   .bg_list_section1 {
+    display:flex;
+    width:95%;
+    justify-content: space-around;
+    align-items: center;
+    
+  }
+  .bg_tag_line1{
+    font-size: 2rem;
+    padding-left: 5rem;
+    padding-top: 2rem;
+    font-weight: 600;
+}

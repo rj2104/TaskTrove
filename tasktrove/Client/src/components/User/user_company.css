@@ -1,0 +1,144 @@
+.main-container{
+    display: grid;
+    grid-template-rows: .5fr;
+    grid-template-columns: .5fr 2.5fr;
+    width: 70%;
+    height:fit-content;
+    margin: 20px;
+}
+
+
+.Profile{
+    /* box-shadow: #c48821; */
+    text-align: center;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 3rem;
+
+}
+
+.Profile img{
+    height: 10rem;
+    width: 10rem;
+
+}
+
+.C_details_btns{
+    background-color: antiquewhite;
+    width: 15rem;
+    margin: 10px 10px 10px 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 0 2rem;
+    border-radius: 0rem 1rem 1rem 0;
+
+
+}
+
+.Details{
+    margin-left: .5rem;
+    background-color: #27ae60;
+    text-align: center;
+    padding-left: .1rem;
+    padding-right: .1rem;
+    /* padding-bottom: .1rem; */
+    border-radius: 20px;
+    display: flex;
+    width: 60rem;
+}
+
+.proflie_pic{
+    /* box-shadow: #c48821; */
+    background-color:#27ae60;
+    margin: 5px 5px 5px 5px;
+
+}
+.proflie_pic img{
+    /* box-shadow: #c48821; */
+    background-color:#ffffff;
+    border-radius: 15px;
+
+}
+
+.avg_rating{
+    text-align: left;
+
+
+}
+
+.icon_space{
+    margin-right: 1rem;
+
+}
+
+.call_btn{
+    font-size: 1.3rem;
+    padding-bottom: 2.3rem;
+    background-color: #27ae60;
+}
+
+.chat_btn{
+    font-size: 1.3rem;
+    padding-bottom: 2.3rem;
+    background-color: grey;
+
+}
+
+
+.c_details_main {
+    background-color: antiquewhite;
+    text-align: left;
+    margin: 10px 0 10px 10px;
+    border-radius: 1rem 0 0 1rem;
+    width: 45rem;
+}
+
+.c_details_name{
+    font-size: 2rem;
+    margin: 3px 0px 3px 20px;
+
+}
+.c_details_address{
+    margin: 3px 0px 3px 20px;
+}
+.c_details_year{
+    margin: 3px 0px 3px 20px;
+}
+
+.c_details_time{
+    display: flex;
+    flex-direction: column;
+    margin: 3px 0px 3px 20px;
+
+}
+
+.c_details_time span{
+    font-weight: 600;
+    /* margin: 3px 0px 3px 20px; */
+
+}
+
+.c_details_contact{
+    background-color: rgb(53 200 53);
+    border-radius: 0.4rem;
+    width: max-content;
+    height: fit-content;
+    padding: 1rem;
+    margin: 20px 0px 0px 4px;
+
+}
+.branding-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5rem;
+  }
+
+  .Profile img{
+    background-size: cover;
+    border-radius: 1rem;
+  }

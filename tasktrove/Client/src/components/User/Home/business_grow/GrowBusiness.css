@@ -1,0 +1,44 @@
+.business_grow_main {
+  background-color: #f7f9fc;
+  padding-bottom: 3rem;
+}
+.bg_tag_line{
+    font-size: 2rem;
+    padding-left: 5rem;
+    padding-bottom: 2rem;
+    font-weight: 600;
+}
+
+.bg_list_item {
+  background-color: #f7f9fc;
+  width: 25rem;
+}
+
+.bg_list_item span{
+    color: grey;
+}
+
+.step_title{
+    font-weight: 600;
+    font-size: 1.2rem;
+    padding-bottom: .4rem;
+    
+}
+
+.step_detail{
+    font-size: 1.2rem;
+
+
+}
+
+
+.bg_list_section {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.arrow_right{
+    font-size: 2.5rem;
+    color: #27AE60;
+}

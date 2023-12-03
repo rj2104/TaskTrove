@@ -1,0 +1,40 @@
+.review-section {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .reviews {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .review {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    width: 300px;
+    text-align: left;
+  }
+  
+  .rating {
+    font-weight: bold;
+  }
+  
+  .service-type {
+    font-style: italic;
+    color: #666;
+  }
+  
+  .review-text {
+    margin-top: 10px;
+  }
+  
+  /* You can add more styles as needed */
+  
